@@ -7,5 +7,15 @@ Boilerplate project for react - webpack / babel / normalize
 * Webpack-dev-server
 * Babel
 * Normalize.css
+* Redux
+* React-Redux
+* Jest
+* Enzyme
 
-Changes will be made to this boilerplate, everything isn't optimal at the moment. Also redux will be included, and some test libraries.
+TODO ADD -
+
+- [ ] Production configuration webpack
+- [ ] Middleware configuration (Redux-saga)
+- [ ] More useful libraries
+
+:octocat:
